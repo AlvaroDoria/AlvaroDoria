@@ -1,0 +1,110 @@
+body {
+  background-color: #c396e5;
+  margin: 0;
+  width: 100%;
+}
+nav.navegacion ul li :hover {
+  color: aqua;
+  transform: scale(0.9);
+  text-decoration: underline;
+}
+nav.navegacion ul li a {
+  text-decoration: none;
+  color: white;
+}
+nav.navegacion {
+  background: blueviolet;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+nav.navegacion ul li {
+  display: inline-block;
+  letter-spacing: 1px;
+  text-indent: 20px;
+  transition: transform 0.3s;
+}
+header.header {
+  background-image: url(../img/491470.jpg);
+  display:flex;
+  flex-direction: row;
+  width: 100%;
+}
+header.header img.textoheader {
+  width: 75%;
+}
+/* CSS PARA LA PAGINA DE LOS SIGNOS */
+
+section.fondo {
+  background-image: url(../img/fondo-pag.jpg);
+  padding-bottom: 1%;
+  padding-top: 1%;
+  width: 100%;
+  margin: auto;
+}
+section.fondo section.contenedor {
+  width: 80%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5% 3% 5% 3%;
+  background-color: #c396e5 !important;
+  border-radius: 10px;
+}
+section.fondo section.contenedor section.titulosigno h2.titulosigno {
+  text-align: center;
+  color: #df7861;
+  font-size: 40px;
+  margin: 0 0 10px 0;
+  font-family: "Shadows Into Light", cursive !important;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+section.fondo section.contenedor img {
+  float: left;
+  margin-right: 35px;
+}
+section.fondo section.contenedor div.caracteristicas {
+  margin: 0;
+  padding: 2px 0 2px 0;
+  box-sizing: border-box;
+  background-color:#C2F0FC;
+  border-radius: 10px;
+}
+section.fondo section.contenedor {
+  font-family: "Sriracha", cursive;
+}
+section.fondo section.contenedor h2.titulos {
+  text-decoration: underline;
+  color: #323232;
+}
+section.fondo section.contenedor p	{
+  color: #323232;
+}
+section.fondo section.contenedor section.espera div.img-espera img.imagen-espera{
+  display: block;
+  width: 250px;
+}
+section.fondo section.contenedor h1.titulosigno {
+  text-align: center;
+  text-decoration: underline;
+}
+section.fondo section.contenedor h3.titulosigno2 {
+  margin-bottom: 4%;
+}
+section.fondo section.contenedor input.mes_boton {
+  margin-bottom: 2%;
+}
+section.fondo section.contenedor h3.titulosigno3{
+  text-align: center;
+  margin-bottom: 1%;
+}
+section.fondo section.contenedor h2.signofinal {
+  text-align: center;
+  color: white;
+  margin-top: 0;
+}
+section.fondo section.contenedor div h2{
+  text-align: center;
+}

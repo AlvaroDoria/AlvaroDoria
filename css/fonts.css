@@ -1,0 +1,59 @@
+section.seccionS h2 {
+    font-family: "Shadows Into Light", cursive;
+  }
+  nav.navegacion ul li {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-style: italic;
+  }
+  body div.explicacion p {
+    font-family: "Shadows Into Light", cursive;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+  }
+  body div.explicacion h2 {
+    font-family: "Shadows Into Light", cursive;
+    font-style: italic;
+    font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
+  
+  }
+  form.formulario fieldset label{
+      font-family: "Architects Daughter", cursive;
+      font-size: 18px;
+    }
+  form.formulario fieldset legend{
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  section.seccionS h5.copy {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  section.fondo h5.copy{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  section.fondo-espera section.contenedor-espera section.espera h2.esperatitulo {
+    text-align: center;
+    font-family: "Architects Daughter", cursive;
+    margin: 1% auto 1% auto;
+  
+    
+  }
+  section.fondo-espera section.contenedor-espera section.espera h3.esperaexplicacion {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin: 0 auto 0 auto;
+  
+  }
+  
